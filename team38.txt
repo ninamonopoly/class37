@@ -1,0 +1,9 @@
+/bin/bash/
+
+tolu
+tola
+titi
+temi
+toyin
+remi
+
